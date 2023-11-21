@@ -1,0 +1,8 @@
+Library/
+Temp/
+obj/
+Logs/
+Assets/TutorialInfo/
+Assets/Plugins/Zenject/OptionalExtras/
+UserSettings/
+Assets/Plugins/UniRx/Examples/
