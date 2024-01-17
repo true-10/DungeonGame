@@ -8,7 +8,7 @@
 Или пойти на следующий уровень и добыть более ценную награду. 
 После сбора награды происходит обнуление прогресса.
 
-![StartPos](https://github.com/true-10/DungeonGame/blob/master/LobbyScreen.jpg)
+![StartPos](https://github.com/true-10/DungeonGame/blob/master/LobbyScreen.png)
 
 ## Ресурсы: 
 Статические данные загружаются из ресурсов проекта.
